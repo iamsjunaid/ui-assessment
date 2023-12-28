@@ -51,7 +51,7 @@ An online app created for ui developer assessment.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](Na)
+- [Live Demo Link](https://ui-assessment.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
